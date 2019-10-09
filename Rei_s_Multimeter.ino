@@ -20,10 +20,10 @@ void setup() {
 void loop() {
   // read the value from the sensor:
   sensorValue = analogRead(sensorPin);
-  lcd.setCursor(0, 0);
-  lcd.print("Rei's Multimeter!");
+  lcd.clear(); //clean the screen for next round of reading
+  lcd.setCursor(0, 0); //Setting the first line of the LCD
+  lcd.print("Rei's Multimeter"); //Words to display
   lcd.setCursor(0, 1); //setting the second line of the LCD
   lcd.print(sensorValue); // print sensor value from A0 pin
   delay(50);
-  lcd.clear();
 }
