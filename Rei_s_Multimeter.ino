@@ -25,5 +25,5 @@ void loop() {
   lcd.print("Rei's Multimeter"); //Words to display
   lcd.setCursor(0, 1); //setting the second line of the LCD
   lcd.print(sensorValue); // print sensor value from A0 pin
-  delay(50);
+  delay(50); //Just for not buring the controller
 }
