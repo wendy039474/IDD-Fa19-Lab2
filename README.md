@@ -10,14 +10,24 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+5V
+
 **b. What voltage level do you need to power the display backlight?**
-   
+
+3V or 3.3V 
+  
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+Forgot to connect the long breadboard vertically on both sides, saw the note in the page and fixed it right away.
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
- 
+
+The line "lcd.print("hello, world!");", change the content to my name!
+
+
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
+[Rei_Multimeter](//github.com/wendy039474/IDD-Fa19-Lab2/blob/master/Rei_s_Multimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
