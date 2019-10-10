@@ -31,7 +31,7 @@ The line "lcd.print("hello, world!");", change the content to my name!
 
 ## Part C. Using a time-based digital sensor
 
-**Upload a video of your working rotary encoder here.**
+[Rei_Rotary Encoder](//youtu.be/vLo9KCTesTw)
 
 
 ## Part D. Make your Arduino sing!
