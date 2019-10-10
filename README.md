@@ -54,4 +54,9 @@ Star Wars!!
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
 
+[Rei_Timer_Video](//youtu.be/ikRYcHQ4fP0)
+
 **b. Post a link to the completed lab report your class hub GitHub repo.**
+
+[Rei_s_Timer.ino](//github.com/wendy039474/IDD-Fa19-Lab2/blob/master/Rei_s_Timer.ino)
+[pitches.h](//github.com/wendy039474/IDD-Fa19-Lab2/blob/master/pitches.h)
