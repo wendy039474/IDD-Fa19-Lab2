@@ -48,7 +48,7 @@ Both ways will make the delay of the system half time and make the song play twi
 
 **b. What song is playing?**
 
-Sound like Star Wars...?
+Star Wars!!
 
 ## Part E. Make your own timer
 
